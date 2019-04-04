@@ -1,0 +1,2 @@
+C:\repos\express_test\obj\Debug\express_test.njsproj.CoreCompileInputs.cache
+C:\repos\express_test\bin\Microsoft.NodejsTools.WebRole.dll
